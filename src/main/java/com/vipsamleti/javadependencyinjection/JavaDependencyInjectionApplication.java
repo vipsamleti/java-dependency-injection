@@ -4,7 +4,6 @@ import com.vipsamleti.javadependencyinjection.injectors.EmailMessageServiceInjec
 import com.vipsamleti.javadependencyinjection.injectors.MessageServiceInjectors;
 import com.vipsamleti.javadependencyinjection.injectors.SMSMessageServiceInjector;
 import com.vipsamleti.javadependencyinjection.processors.MessageServiceProcessor;
-import com.vipsamleti.javadependencyinjection.services.MessageService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
